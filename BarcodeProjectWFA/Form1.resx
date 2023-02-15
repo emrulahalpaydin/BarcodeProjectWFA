@@ -1,0 +1,372 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 179</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Tümünü Kopyala</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Barkod Başlığı :</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="textBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 176</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Üret</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 45</value>
+  </data>
+  <data name="textBox1.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Üretilecek Adet :</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 25</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAMMOAADDDgAAAAAAAAAA
+        AAAAAABFAAAAkgAAAJUAAACVAAAAkwAAAD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwAA
+        AFkAAAB8AAAASgAAACEAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAJIAAADCAAAAgAAAAIAAAADCAAAAwQAAAIAAAACBAAAANQAAAAAAAAAAAAAAAAAA
+        ACAAAACUAAAAwgAAAKAAAAC5AAAAwQAAAK8AAACIAAAAWQAAAC8AAAARAAAAAgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAlQAAAIIAAAAAAAAAAAAAAIEAAADFAAAAgAAAAMMAAADCAAAAgQAA
+        AIMAAACJAAAAwgAAAJYAAAAgAAAAAQAAAA4AAAAqAAAAUwAAAIIAAACrAAAAwQAAAL0AAAChAAAAdQAA
+        AEcAAAAhAAAACQAAAAAAAAAAAAAAAAAAAAAAAACVAAAAggAAAAAAAAAAAAAAgwAAAIMAAAAAAAAAgQAA
+        AMUAAACBAAAAgwAAAIMAAABPAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAYAAAAOgAA
+        AGcAAACVAAAAtwAAAMMAAAC0AAAAjwAAAGEAAAAzAAAADQAAAJUAAACCAAAAAAAAAAAAAACDAAAAgwAA
+        AAAAAACDAAAAgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAB4AAAASAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAEAAAALAAAAJQAAAEwAAAB7AAAApQAAANEAAAB5AAAAlQAAAIIAAAAAAAAAAAAA
+        AIMAAACDAAAAAAAAAIMAAACDAAAAAAAAAAAAAAAAAAAAAAAAABUAAACXAAAAyAAAALsAAAAzAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAApQAAAIEAAACVAAAAggAA
+        AAAAAAAAAAAAgwAAAIMAAAAAAAAAgwAAAIMAAAAAAAAAAAAAAAAAAAAVAAAAowAAAKUAAAAoAAAAlwAA
+        AL8AAACBAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAggAAAKEAAAC8AAAAKQAA
+        AJUAAACCAAAAAAAAAAAAAACDAAAAgwAAAAAAAACDAAAAgwAAAAAAAAAAAAAAAAAAAIAAAACkAAAAFAAA
+        AAsAAACpAAAArwAAAIEAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAcQAA
+        ACQAAAAAAAAAlQAAAIIAAAAAAAAAAAAAAIMAAACDAAAAAAAAAIMAAACDAAAAAAAAAAAAAAAAAAAAIwAA
+        ABQAAAAEAAAAhQAAALIAAAAXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAACVAAAAggAAAAAAAAAAAAAAgwAAAIMAAAAAAAAAgwAAAIMAAAAAAAAAAAAA
+        AAAAAAAAAAAAAQAAAGsAAADCAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJUAAACCAAAAAAAAAAAAAACDAAAAgwAAAAAAAACBAAAAxQAA
+        AIEAAACDAAAAgwAAAIIAAACTAAAAyQAAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkgAAAMMAAACBAAAAgQAAAMMAAADDAAAAgAAA
+        AMMAAADBAAAAfgAAAIAAAACAAAAAgAAAAIAAAAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAgQAAAIMAAACDAAAAgQAA
+        AIEAAACDAAAAgQAAAEEAAABcAAAAgAAAAH8AAAB/AAAAfwAAAIAAAACDAAAAgwAAAIMAAACDAAAAgwAA
+        AIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIQAAABhAAAADwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAYgAAAMYAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAA
+        AIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAMUAAABvAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACDAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgwAA
+        AJUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAADEAAAAfgAAAIIAAACAAAAAggAA
+        AIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIIAAACAAAAAggAA
+        AH4AAADCAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAAI4AAADgAAAAoQAA
+        AN8AAACRAAAAggAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACDAAAAgwAAAIMAAACCAAAAkwAA
+        AOAAAACjAAAA4AAAAJAAAAA8AAAAPQAAAIAAAACDAAAAgwAAAIMAAACCAAAAgQAAAIMAAACAAAAAjwAA
+        AN8AAACgAAAA3wAAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAhAAAAwAAAAEEAAADAAAAAIAAAAAAAAACSAAAAwwAAAIEAAACCAAAAgwAAAI8AAACdAAAAgwAA
+        AIMAAACDAAAAfwAAAIAAAADDAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAACEAAADAAAAAQQAAAMAAAAAgAAAAAAAAAJUAAACCAAAAAAAAAE0AAABfAAAAQAAA
+        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
+        GAH/gBgB/4AAAf+AAAH/wAAD//4Af///w/8=
+</value>
+  </data>
+  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 271</value>
+  </data>
+  <data name="textBox2.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>162, 271</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Name" xml:space="preserve">
+    <value>listBox1</value>
+  </data>
+  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 46</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 34</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 81</value>
+  </data>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="listBox1.ItemHeight" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="listBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 364</value>
+  </data>
+  <data name="button3.Text" xml:space="preserve">
+    <value>Listeyi Temizle</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 25</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textBox3.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
+  </data>
+  <data name="textBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 78</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Barkod Üretme Programı</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="listBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>602, 664</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 45</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="listBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>514, 279</value>
+  </data>
+  <data name="&gt;&gt;textBox3.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 34</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
+  </data>
+  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>382, 271</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>BarcodeFrom</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;textBox3.Name" xml:space="preserve">
+    <value>textBox3</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>173, 34</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>tr</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>
